@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/disney-plus-clone/static/css/main.92460998.chunk.css",
-    "main.js": "/disney-plus-clone/static/js/main.e70b826a.chunk.js",
-    "main.js.map": "/disney-plus-clone/static/js/main.e70b826a.chunk.js.map",
+    "main.js": "/disney-plus-clone/static/js/main.d7e0c90a.chunk.js",
+    "main.js.map": "/disney-plus-clone/static/js/main.d7e0c90a.chunk.js.map",
     "runtime-main.js": "/disney-plus-clone/static/js/runtime-main.19b821f9.js",
     "runtime-main.js.map": "/disney-plus-clone/static/js/runtime-main.19b821f9.js.map",
     "static/css/2.f7ea8efe.chunk.css": "/disney-plus-clone/static/css/2.f7ea8efe.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.f7ea8efe.chunk.css",
     "static/js/2.dc8f5302.chunk.js",
     "static/css/main.92460998.chunk.css",
-    "static/js/main.e70b826a.chunk.js"
+    "static/js/main.d7e0c90a.chunk.js"
   ]
 }
